@@ -5,7 +5,8 @@
 first reach to main program file ie. 
 cd desktop/
 cd WheelTimer-TimeMachine
-cd wheeltime 
+cd WheelTimer-TimeMachine
+cd wheeltimer 
 ls 
 cat readme
 and then proceed according .
